@@ -20,6 +20,6 @@ public class Player1Controller : PlayerBaseController
             moveValue = -1;
         }
         return moveValue;
-        //ギットテスト
+        //gitテスト
     }
 }
